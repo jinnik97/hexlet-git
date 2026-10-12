@@ -1,1 +1,0 @@
-Hascell Curry
